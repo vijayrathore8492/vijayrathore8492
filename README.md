@@ -59,7 +59,7 @@ Innovative & experienced Software Engineer with 10+ years of experience architec
 
 ## EDUCATION
 
-B.TECH, NIT SURAT, INDIA | 2009-2013
+B.TECH in Computer Science, NIT SURAT, INDIA | 2009-2013
 
 ## CERTIFICATIONS
 
