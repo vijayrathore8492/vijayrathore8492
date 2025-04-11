@@ -40,7 +40,7 @@ Innovative & experienced Software Engineer with 10+ years of experience architec
 
 ### Xoxoday | Senior Software Engineer | AUG 2016 - JUL 2018
 
-* Developed seamless user authentication system which supports LDAP, SAML 2.0 and linkbased SSO.
+* Developed seamless user authentication system which supports LDAP, SAML 2.0 and link based SSO.
 * Developed PHP URL Scraper library and Facebook like user status post box.
 * Delivered tools for faster client acquisition, e.g. Custom Email Builder(WYSIWYG) ,automated
 * HRMS and SAML integration.
